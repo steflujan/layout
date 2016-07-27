@@ -1,0 +1,53 @@
+* {
+	box-sizing:border-box;
+	margin:10px;
+	padding:0px;
+}
+.figura-1 {
+	border-radius:50%;
+}
+
+h1, p {
+	text-align: center;
+}
+
+.contenedor {
+	width:900px;
+	border:1px solid black;
+	margin:auto;
+	padding:60px;
+}
+
+.coder {
+	position:relative;
+	left:280px;
+	bottom:40px;
+}
+.html {
+	width: 600px;
+	height: 40px;
+	background-color:gray;
+	padding:10px;
+	margin-right:30px;
+	margin-bottom:30px;
+
+}
+.css {
+	width: 450px;
+	height:40px;
+	background-color:gray;
+	padding:10px;
+	margin-right:30px;
+	margin-bottom:30px;
+}
+.java {
+    width: 250px;
+	height:40px;
+	background-color:gray;
+	padding:10px;
+	margin-right:30px;
+	margin-bottom:30px;
+}
+.fotos {
+	display:inline-block;
+}

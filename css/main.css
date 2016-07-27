@@ -1,0 +1,94 @@
+* {
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+
+header {
+	margin: 30px auto;
+	width:700px;
+	background:white;
+}
+
+a {
+	text-decoration:none;
+	padding: 12px;
+	color:black;
+	list-style:none;
+	text-decoration: none;
+	font-family:helvetica;
+	font-size:15px;
+}
+nav ul li {
+	display:inline-block;
+	margin: 15px 30px;
+}
+.logotipo img {
+	margin-bottom:30px;
+}
+
+.foto {
+	margin-left:180px;
+	margin-right:180px;
+	margin-bottom: 30px;
+}
+
+.parrafo {
+	margin: 50px 500px 50px 500px;
+	font-size:20px;
+	text-align:center;
+}
+.barra-1, .barra-2 {
+	width:700px;
+	height:1px;
+	background-color: black;
+	margin:auto;
+}
+.linea-menu {
+	border: 1px solid black;
+	display:inline;
+}
+.linea-1, .linea-2 {
+	width:60px;
+	height:2px;
+	background-color: black;
+	margin:auto;
+}
+
+
+.texto {
+	padding:0px;
+	margin:0px;
+	bottom: 30px;
+	left: 90px;
+	position: relative;
+	color:white;
+}
+
+img {
+	border-color: gray;
+}
+.padre {
+	margin:30px;
+}
+.caja {
+	display:inline-block;
+	margin: 15px;
+	margin-bottom: 0px;
+	margin-top: 0px;	
+}
+.linea {
+	width: 80px;
+	height:5px;
+	background-color: black;
+}
+a.opacidad:hover {
+	opacity:0.5;
+}
+.nuestras-coders {
+	margin-left:220px;
+	margin-right: 220px;
+}
+
+
+
