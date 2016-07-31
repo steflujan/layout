@@ -70,6 +70,7 @@ img {
 }
 .padre {
 	margin:30px;
+	display:inline-block;
 }
 .caja {
 	display:inline-block;
@@ -86,8 +87,8 @@ a.opacidad:hover {
 	opacity:0.5;
 }
 .nuestras-coders {
-	margin-left:220px;
-	margin-right: 220px;
+	margin-left:200px;
+	margin-right: 200px;
 }
 
 
